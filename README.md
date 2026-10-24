@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.jpg" width="220" alt="Metaprogramlabs logo" />
+<img src="https://raw.githubusercontent.com/Metaprogramlabs/Metaprogramlabs/main/logo.png" width="220" alt="Metaprogramlabs logo" />
 
 # Meta Program Labs
 
