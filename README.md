@@ -1,18 +1,22 @@
 <div align="center">
 
+<img src="./logo.jpg" width="220" alt="Metaprogramlabs logo" />
+
 # Meta Program Labs
 
-**Code that builds code. Automation, bots and trading tools, engineered end to end.**
+**Engineering Intelligence**
+
+Code that builds code. Automation, bots and trading tools, engineered end to end.
 
 <a href="https://t.me/Metaprogramlabs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=Telegram+bots+%26+automation;Web+scrapers+%26+data+pipelines;Flask+web+apps+%26+REST+APIs;Flutter+mobile+apps;MQL5+Expert+Advisors+%26+Pine+Script+indicators" alt="What we build" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5B8CFF&center=true&vCenter=true&width=640&lines=Telegram+bots+%26+automation;Web+scrapers+%26+data+pipelines;Flask+web+apps+%26+REST+APIs;Flutter+mobile+apps;MQL5+Expert+Advisors+%26+Pine+Script+indicators" alt="What we build" />
 </a>
 
 <br/>
 
+[![Explore Projects](https://img.shields.io/badge/Explore_Projects-5B8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Metaprogramlabs?tab=repositories)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Metaprogramlabs)
-[![GitHub](https://img.shields.io/badge/GitHub-Metaprogramlabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Metaprogramlabs)
-![Status](https://img.shields.io/badge/Status-Open_for_projects-00D4AA?style=for-the-badge)
+[![Contact](https://img.shields.io/badge/Contact-Write_to_us-7C3AED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Metaprogramlabs)
 
 </div>
 
@@ -51,7 +55,7 @@ The name is the idea: *metaprogramming* is code that writes and shapes other cod
 **Backend & APIs**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6C5CE7?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7C3AED?style=for-the-badge)
 
 **Mobile**
 
@@ -69,16 +73,27 @@ The name is the idea: *metaprogramming* is code that writes and shapes other cod
 
 ---
 
-## 📂 Featured work
+## 📂 Projects
 
-> Repositories are being added. Follow the organization to see new releases.
+Our code lives in the repositories of this organization. New tools are published as they are released.
 
-| Project | Stack | Description |
-|---|---|---|
-| 🔜 *Telegram bot* | Python | Coming soon |
-| 🔜 *Web scraper* | Python | Coming soon |
-| 🔜 *Trading indicator* | Pine Script | Coming soon |
-| 🔜 *Expert Advisor* | MQL5 | Coming soon |
+<div align="center">
+
+[![Explore Projects](https://img.shields.io/badge/Explore_all_repositories-5B8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Metaprogramlabs?tab=repositories)
+
+</div>
+
+<!--
+TEMPLATE for a featured project (copy, fill in, remove this comment):
+
+### 🔹 Project name
+<img src="./docs/screenshot.png" width="600" alt="Project name screenshot" />
+
+**Task:** what problem it solves, in one sentence.
+**Features:** key function 1 · key function 2 · key function 3
+**Stack:** `Python` `Flask` ...
+**Link:** [repository](https://github.com/Metaprogramlabs/repo-name)
+-->
 
 ---
 
